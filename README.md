@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tarek 👋
 
-<!--
-**tareklahmar/tareklahmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M1 Cybersecurity student at the University of Jijel, Algeria, aiming for a career as a SOC analyst.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Building a home SIEM lab with Wazuh
+- Writing small defensive tools in Python
+- Practicing blue team skills on TryHackMe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Languages: Python, C, Java, JavaScript
+- Network & Web: Wireshark, Burp Suite
+- Learning: Wazuh, ELK, Suricata, MITRE ATT&CK
+
+## 🎯 Goals
+- Land a SOC analyst role or internship
+- Document my labs and projects here on GitHub
+
+## 📫 Find me on
+- TryHackMe: [tryhackme.com/p/hexd.e](https://tryhackme.com/p/hexd.e)
